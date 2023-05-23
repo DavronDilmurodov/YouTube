@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  height: 100vh;
+}
+
+#root {
+  height: 100vh;
+}
+
+.smth {
+  margin-bottom: 0;
+}
+
+.bi {
+  cursor: pointer;
+}
+
+.bottom__icons:hover {
+  cursor: pointer;
+  background-color: gray;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.bottom__icons {
+  font-size: 24px;
+}
+
+.bottom__icons2:hover {
+  transform: scale(2);
+}
+
+.home__layout {
+  background-image: url("https://yt3.googleusercontent.com/i7YyvXY7pduGWySwv0NIRilEXk_I3oCiXqS6jYjAVyR6xeiepfLUb-sohn3DDCvE4iwaf9ZJqg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj");
+  height: 270px;
+  /* background-repeat: no-repeat; */
+}
